@@ -25,7 +25,6 @@ I enjoy constantly learning and improving my skills with the many technologies
 [![markdown](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=Markdown&logoColor=white&color=000000)](https://www.markdownguide.org/)
 [![mongodb](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=0FA24C)](https://www.mongodb.com/)
 [![graphql](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=D932A2)](https://graphql.org/)
-[![graphql](https://img.shields.io/badge/rest-informational?style=flat-square&logo=restful&logoColor=white&color=D932A2)](https://graphql.org/)
 [![express](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=white&color=010101)](https://expressjs.com/)
 [![express](https://img.shields.io/badge/nestjs-informational?style=flat-square&logo=Nestjs&logoColor=white&color=ff002a)](https://nestjs.com/)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=C2312E)](https://www.npmjs.com/)
