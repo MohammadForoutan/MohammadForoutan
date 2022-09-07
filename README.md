@@ -54,7 +54,7 @@ I enjoy constantly learning and improving my skills with the many technologies
 
 ## ️Contact
 
-<a href="mailto:dev.mmdfrn81@gmail.com"><img alt="Gmail" title="mmdfrn81@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mmdfrn81@gmail.com"><img alt="Gmail" title="mmdfrn81@gmail.com" src="https://img.shields.io/badge/Gmail-DE4032?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/MohammadForoutan"><img alt="Linkedin" title="linkedin.com/in/MohammadForoutan" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohammad_Foroutan"><img alt="Telegram" title="t.me/Mohammad_Foroutan" src="https://img.shields.io/badge/Telegram-1C8CC5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
