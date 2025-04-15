@@ -1,5 +1,8 @@
 ## Hi there 👋
-Telegram: [Mohammad_Foroutan](https://telegram.me/Mohammad_Foroutan)
+I’m Mohammad Foroutan. try to learn new things and solve problems.
+
+## Connect with Me
+You can reach me on Telegram: [@Mohammad_Foroutan](https://telegram.me/Mohammad_Foroutan)
 
 <!--
 **MohammadForoutan/MohammadForoutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
